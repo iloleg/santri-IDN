@@ -12,7 +12,7 @@ DONATE : paypal.me/santrikaliwungu
 
 KALIWUNGU CYBER NUSANTARA
 
-GITHUB : git clone https://github.com/SantriCyber
+GITHUB : https://github.com/SantriCyber
 
 git clone https://github.com/SantriCyber/santri-IDN
 
